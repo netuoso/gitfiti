@@ -1,3 +1,6 @@
+###Forked From
+http://github.com/gelstudios/gitfiti
+
 gitfiti _noun_ : Carefully crafted graffiti in a github commit history calendar.  
 
 An example of gitfiti in the wild:  
