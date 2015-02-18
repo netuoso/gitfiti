@@ -3,13 +3,6 @@
 # Copyright (c) 2013 Eric Romano (@gelstudios)
 # released under The MIT license (MIT) http://opensource.org/licenses/MIT
 #
-"""
-gitfiti
-
-noun : Carefully crafted graffiti in a github commit history calendar
-
-"""
-
 import datetime
 import math
 import itertools
